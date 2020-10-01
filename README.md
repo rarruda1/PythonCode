@@ -1,3 +1,3 @@
 # PythonCode
 
-Some notebooks from USP PhD program
+Some notebooks in python
